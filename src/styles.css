@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+  color: rgb(4, 31, 31);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+}
+h2, h3{
+  color: rgb(1, 10, 17);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+body{
+  margin: auto;
+}
+body,input[type="text"],button{
+  color: azure;
+  font-family:fantasy ;
+}
